@@ -1,6 +1,6 @@
-col {
+[class*="col"] {
   padding: 1rem;
-  background-color: aqua;
+  background-color: rgb(0, 102, 255);
   border: 2px solid #fff;
-  color: #fff;
+  color: #000000;
 }
